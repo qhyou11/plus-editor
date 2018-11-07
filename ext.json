@@ -1,0 +1,10 @@
+{
+  "identifier": "tk.myqq.my-plus-editor",
+  "name": "My Plus Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.1.6",
+  "description": "A plus editor.",
+  "url": "https://p2.myqq.tk",
+  "download_url": "https://github.com/qhyou11/plus-editor/archive/1.1.6.zip"
+}
